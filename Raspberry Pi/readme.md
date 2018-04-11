@@ -10,7 +10,7 @@ Use docker ?
 
 1. Docker Rancher
 
-1. Docker InlfuxDB ^_(Time Series DB)_^
+1. Docker InlfuxDB _(Time Series DB)_
 
 1. Docker Grafana
 
